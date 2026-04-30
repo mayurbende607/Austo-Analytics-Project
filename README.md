@@ -78,9 +78,9 @@ This project focuses on analyzing customer data from an automobile company (**Au
 
 Austo-Analytics-Project/
 │
-├── Austo_Analysis.ipynb
+├── Austo_Analysis_.ipynb
 ├── Austo_Analytics_Report.pdf
-├── dataset.csv
+├── austo_automobile.csv
 └── README.md
 
 
@@ -96,5 +96,5 @@ Austo-Analytics-Project/
 ## 👤 Author
 **Mayur Bende**  
 📍 Bhopal, India  
-🔗 LinkedIn: (Add Link)  
-💻 GitHub: (Add Link)
+🔗 LinkedIn: www.linkedin.com/in/mayur-bende  
+💻 GitHub: https://github.com/mayurbende607
